@@ -22,6 +22,8 @@ This project aims to perform analytical exploration and generate insights from a
 - **Length of Stay**: Calculated as the number of days between admission and discharge.
 - **Top Insurance Providers**: Listed based on frequency.
 
+> *Note: All insights above are generated using Python libraries such as `pandas`, `seaborn`, and `matplotlib`.*
+
 ## 🤖 AI Support Explanation
 
 This project integrates the IBM Granite 3.3 8B language model through the **Replicate API**. It is used to:
@@ -36,4 +38,4 @@ The AI was guided using structured prompts that included calculated statistics, 
 ---
 
 > 🛠 Built with: Python, Pandas, Seaborn, Matplotlib, LangChain, IBM Granite 3.3 LLM
->
+>© 2025 - IBM SkillsBuild x Hacktiv8 Capstone Project
